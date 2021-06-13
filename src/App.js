@@ -1,11 +1,14 @@
 import React from 'react'
-import Objetos from './componetes/Objetos';
+import Poke from './componetes/Poke';
+
+
 
 function App() {
   return (
     <div>
 
-    <Objetos/>
+    
+    <Poke/>
 
     </div>
     
