@@ -1,5 +1,6 @@
 import React from 'react'
-import Poke from './componetes/Poke';
+import Fetchpockemon from './componetes/Fetchpockemon';
+
 
 
 
@@ -8,7 +9,7 @@ function App() {
     <div>
 
     
-    <Poke/>
+    <Fetchpockemon/>
 
     </div>
     
